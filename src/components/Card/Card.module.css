@@ -1,0 +1,19 @@
+.card {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin: 0.5rem;
+    border-radius: 40px;
+    background-color: #212121;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    color: white;
+    padding: 0.5rem;
+}
+
+.image {
+    display: block;
+    width: 80px;
+    height: 70px;
+    border-radius: 100%;
+    aspect-ratio: 1/1;
+}
